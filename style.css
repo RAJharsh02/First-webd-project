@@ -1,0 +1,173 @@
+body {
+
+
+    /* margin: 0px; */
+    /* padding: 0px; */
+    background: url('4k-g4a1dd477c_1920.jpg');
+    background-size: 100% 100%;
+    /* background-position: center; */
+    background-attachment: fixed;
+    /* background-repeat: no-repeat; */
+    /* border-image-width: cover; */
+    /* height: 1000px; */
+
+
+}
+
+.left {
+    display: inline-block;
+    /* border: 2px solid red; */
+    position: absolute;
+    
+    left: 100px;
+    top: 26px;
+    font-size: 40px;
+    color: #0288D1;
+    /* font-family: 'Poppins', sans-serif; */
+    /* font-family:'Raleway', sans-serif; */
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+.left img {
+    width: 80px;
+}
+
+/* .left div { */
+/* line-height: 19px; */
+/* font-size: 26px; */
+/* text-align: center; */
+/* } */
+
+.mid {
+    display: block;
+    width: 46%;
+    margin: 30px 750px;
+}
+
+.navbar {
+    display: inline-block;
+    /* position: fixed; */
+    /* top: 26px; */
+    
+}
+
+.navbar li {
+    display: inline-block;
+    /* position: fixed; */
+}
+
+.navbar li a {
+    /* position: fixed; */
+    /* width: 100%; */
+    /* top: 0%; */
+    /* margin: 500px; */
+    font-size: 20px;
+    color: #0288D1;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+
+.navbar li a:hover
+
+/* .navbar li a.active { */
+    {
+    text-decoration: underline;
+    color: #263238;
+    font-size: larger;
+}
+
+p {
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 5px;
+    /* margin-top: 100px; */
+}
+
+.pursue {
+    color: #0288D1;
+}
+
+.passion {
+    color: red;
+}
+
+.your {
+    color: #0288D1;
+}
+
+.container {
+    display: block;
+    width: 508px;
+    padding: 1px;
+    border: 2px solid #0288D1;
+    margin: 51px 150px;
+    font-size: 25px;
+    border-radius: 8px;
+    float: left;
+    /* text-align: center; */
+}
+
+/* .form-group label { */
+/* width: 150px; */
+/* text-align: right;} */
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.form-group label {
+    width: 150px;
+    text-align: left;
+    margin-right: 10px;
+    /* margin-left: 50px; */
+}
+
+.form-group input {
+    flex: 2;
+    /* width: 20px; */
+    display: block;
+    width: 350px;
+    padding: 2px;
+    border: 2px solid black;
+    margin: 5px auto;
+    font-size: 25px;
+    border-radius: 8px;
+}
+
+.container h1 {
+    text-align: center;
+    color: #0288D1;
+
+}
+
+.container button {
+    display: block;
+    width: 74%;
+    margin: 20px auto;
+}
+
+.btn:hover {
+    background-color: #0288D1;
+    color: white;
+}
+
+.paragraph {
+    /* float: right */
+    float: right;
+    width: 20%;
+    padding: 20px;
+    /* background-color: #fff; */
+    font-size: 25px;
+    margin: 51px 150px;
+    /* line-height: 1.5; */
+    
+}
+.paragraph h1{
+    /* .container h1 { */
+        /* text-align: center; */
+        color: #0288D1;
+}
